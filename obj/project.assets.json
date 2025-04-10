@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/Users/weibinloo/.nuget/packages/": {}
+    "/Users/aishaahmad/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/weibinloo/Desktop/Master Cloud/Projects/Active Income/Part-time Jobs/coding_coaching/students/Aisha/algorithms and data structures/Project 3/GraphInfluenceScore/GraphInfluenceScore.csproj",
+      "projectUniqueName": "/Users/aishaahmad/Desktop/GraphInfluenceScore/GraphInfluenceScore.csproj",
       "projectName": "GraphInfluenceScore",
-      "projectPath": "/Users/weibinloo/Desktop/Master Cloud/Projects/Active Income/Part-time Jobs/coding_coaching/students/Aisha/algorithms and data structures/Project 3/GraphInfluenceScore/GraphInfluenceScore.csproj",
-      "packagesPath": "/Users/weibinloo/.nuget/packages/",
-      "outputPath": "/Users/weibinloo/Desktop/Master Cloud/Projects/Active Income/Part-time Jobs/coding_coaching/students/Aisha/algorithms and data structures/Project 3/GraphInfluenceScore/obj/",
+      "projectPath": "/Users/aishaahmad/Desktop/GraphInfluenceScore/GraphInfluenceScore.csproj",
+      "packagesPath": "/Users/aishaahmad/.nuget/packages/",
+      "outputPath": "/Users/aishaahmad/Desktop/GraphInfluenceScore/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/weibinloo/.nuget/NuGet/NuGet.Config"
+        "/Users/aishaahmad/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
