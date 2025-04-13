@@ -23,7 +23,7 @@ class Program
         if (graphType == 1)
         {
             // Inform the user about the input format for unweighted edges.
-            Console.WriteLine("Enter Edges (Format: u v):");
+            // Console.WriteLine("Enter Edges (Format: u v):");
             for (int i = 0; i < edges; i++)
             {
                 // Get a valid edge input (two nodes: u and v) from the user.
@@ -45,7 +45,6 @@ class Program
         else if (graphType == 2)
         {
             // Inform the user about the input format for weighted edges.
-            Console.WriteLine("Enter Weighted Edges (Format: u v weight):");
             for (int i = 0; i < edges; i++)
             {
                 // Get a valid weighted edge input (two nodes and a weight) from the user.

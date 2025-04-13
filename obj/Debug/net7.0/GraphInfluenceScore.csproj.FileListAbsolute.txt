@@ -26,17 +26,17 @@
 /Users/weibinloo/Desktop/Master Cloud/Projects/Active Income/Part-time Jobs/coding_coaching/students/Aisha/algorithms and data structures/Project 3/GraphInfluenceScore/obj/Debug/net7.0/GraphInfluenceScore.pdb
 /Users/weibinloo/Desktop/Master Cloud/Projects/Active Income/Part-time Jobs/coding_coaching/students/Aisha/algorithms and data structures/Project 3/GraphInfluenceScore/obj/Debug/net7.0/GraphInfluenceScore.genruntimeconfig.cache
 /Users/weibinloo/Desktop/Master Cloud/Projects/Active Income/Part-time Jobs/coding_coaching/students/Aisha/algorithms and data structures/Project 3/GraphInfluenceScore/obj/Debug/net7.0/ref/GraphInfluenceScore.dll
-/Users/aishaahmad/Desktop/GraphInfluenceScore/bin/Debug/net7.0/GraphInfluenceScore
-/Users/aishaahmad/Desktop/GraphInfluenceScore/bin/Debug/net7.0/GraphInfluenceScore.deps.json
-/Users/aishaahmad/Desktop/GraphInfluenceScore/bin/Debug/net7.0/GraphInfluenceScore.runtimeconfig.json
-/Users/aishaahmad/Desktop/GraphInfluenceScore/bin/Debug/net7.0/GraphInfluenceScore.dll
-/Users/aishaahmad/Desktop/GraphInfluenceScore/bin/Debug/net7.0/GraphInfluenceScore.pdb
-/Users/aishaahmad/Desktop/GraphInfluenceScore/obj/Debug/net7.0/GraphInfluenceScore.GeneratedMSBuildEditorConfig.editorconfig
-/Users/aishaahmad/Desktop/GraphInfluenceScore/obj/Debug/net7.0/GraphInfluenceScore.AssemblyInfoInputs.cache
-/Users/aishaahmad/Desktop/GraphInfluenceScore/obj/Debug/net7.0/GraphInfluenceScore.AssemblyInfo.cs
-/Users/aishaahmad/Desktop/GraphInfluenceScore/obj/Debug/net7.0/GraphInfluenceScore.csproj.CoreCompileInputs.cache
-/Users/aishaahmad/Desktop/GraphInfluenceScore/obj/Debug/net7.0/GraphInfluenceScore.dll
-/Users/aishaahmad/Desktop/GraphInfluenceScore/obj/Debug/net7.0/refint/GraphInfluenceScore.dll
-/Users/aishaahmad/Desktop/GraphInfluenceScore/obj/Debug/net7.0/GraphInfluenceScore.pdb
-/Users/aishaahmad/Desktop/GraphInfluenceScore/obj/Debug/net7.0/GraphInfluenceScore.genruntimeconfig.cache
-/Users/aishaahmad/Desktop/GraphInfluenceScore/obj/Debug/net7.0/ref/GraphInfluenceScore.dll
+/Users/aishaahmad/Desktop/project_3/bin/Debug/net7.0/GraphInfluenceScore
+/Users/aishaahmad/Desktop/project_3/bin/Debug/net7.0/GraphInfluenceScore.deps.json
+/Users/aishaahmad/Desktop/project_3/bin/Debug/net7.0/GraphInfluenceScore.runtimeconfig.json
+/Users/aishaahmad/Desktop/project_3/bin/Debug/net7.0/GraphInfluenceScore.dll
+/Users/aishaahmad/Desktop/project_3/bin/Debug/net7.0/GraphInfluenceScore.pdb
+/Users/aishaahmad/Desktop/project_3/obj/Debug/net7.0/GraphInfluenceScore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aishaahmad/Desktop/project_3/obj/Debug/net7.0/GraphInfluenceScore.AssemblyInfoInputs.cache
+/Users/aishaahmad/Desktop/project_3/obj/Debug/net7.0/GraphInfluenceScore.AssemblyInfo.cs
+/Users/aishaahmad/Desktop/project_3/obj/Debug/net7.0/GraphInfluenceScore.csproj.CoreCompileInputs.cache
+/Users/aishaahmad/Desktop/project_3/obj/Debug/net7.0/GraphInfluenceScore.dll
+/Users/aishaahmad/Desktop/project_3/obj/Debug/net7.0/refint/GraphInfluenceScore.dll
+/Users/aishaahmad/Desktop/project_3/obj/Debug/net7.0/GraphInfluenceScore.pdb
+/Users/aishaahmad/Desktop/project_3/obj/Debug/net7.0/GraphInfluenceScore.genruntimeconfig.cache
+/Users/aishaahmad/Desktop/project_3/obj/Debug/net7.0/ref/GraphInfluenceScore.dll
